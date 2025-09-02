@@ -1,6 +1,6 @@
 <ProxyEndpoint name="default">
   <HTTPProxyConnection>
-    <BasePath>/base</BasePath>
+    <BasePath>/base-1</BasePath>
   </HTTPProxyConnection>
   <RouteRule name="backend">
     <TargetEndpoint>backend</TargetEndpoint>
